@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against conventicles, and other disorders.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05449</idno>
+            <idno type="STC">Wing S1583</idno>
+            <idno type="STC">ESTC R183323</idno>
+            <idno type="EEBO-CITATION">52528923</idno>
+            <idno type="OCLC">ocm 52528923</idno>
+            <idno type="VID">178975</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05449)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178975)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against conventicles, and other disorders.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Blank spaces intentionally placed in text.</note>
+                  <note>Dated at end: Given under Our Signet, at Edinburgh, the first day of March, 1676. And of Our Reign the twenty eight year.</note>
+                  <note>Signed at foot of text: Tho. Hay, Cl. Sti Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Scotland --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+               <term>Assembly, Right of --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:178975:1"/>
+            <!-- PDF PAGE 17 -->
+            <pb facs="tcp:178975:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>A PROCLAMATION Againſt Conventicles, and other Diſorders.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> by the Grace of GOD, King of Great <hi>Brittain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Macers, or Meſſengers at Armes, Our Sheriffs in that part conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as by many renewed Acts of Parliament, and former Proclamations, with advice of Our Privy Council; We have manifeſted Our Religious and Princely care and zeal for the intereſts of the Proteſtant Reformed Religion, and of the Church: And conſidering, how much it imports the glory of Almighty GOD, as well as the intereſt and ſervice of Our Crown, that all due Obedience be payed to ſuch Laws, as provide for the ſecuring of the ſame, by Unity in Wor<g ref="char:EOLhyphen"/>ſhip, and by procuring of all due Reverence to Our Arch-Biſhops and Biſhops, and the other ſub-ordinat Officers of the Church: And withall, the ſad and ſenſible decayes Religion hath of late ſuffered, and the great and dangerous increaſe of Profanneſſe through the moſt unreaſonable and Schiſmatical ſeparation of many, from the publick and eſtabliſhed Worſhip, and the frequent and open Conventicles both in houſes and fields, by ſuch as thereby diſcover their diſaffection to the eſtabliſhed Religion, and their undutieful averſion to Our Authority and Go<g ref="char:EOLhyphen"/>vernment, whereby the Peace of the Kingdom is endangered, and the Church divided, and under pretence of Scruple, Faction advanced. And We, having cauſe to apprehend, that theſe inſolent Diſorders, have flowed from their abuſing of Our Royal Clemency and Indulgence, and from the flow, remiſs and unſteddy execution of Our good and wholeſome Laws; And being deſirous, that all Our good Subjects may take notice, how ſerious and reſolute We are to aſſert and maintain the true Religion, and the Unity and eſtabliſhed Order of the Church, Do, with advice of Our Privy Council, require, and command all Our Officers, and others intruſted for that effect, to put the Laws and Proclamations relating to the Church, to due and vigo<g ref="char:EOLhyphen"/>rous execution, both againſt Papiſts, and all other Schiſmatical Diſſenters and Diſturbers of the Peace thereof. And further, We do particularly re<g ref="char:EOLhyphen"/>quire the Magiſtrates of the ſeveral Burghs to ſeize upon any Perſons that are, or, hereafter ſhall be intercommoned and remove out of their ſeve<g ref="char:EOLhyphen"/>ral Towns and Juriſdictions, the Families of ſuch as are intercommoned, or declared Fugitives or Rebells; and all ſuch Preachers, as with their Fami<g ref="char:EOLhyphen"/>lies do not attend the Publick VVorſhip, and that betwixt and the firſt day of <hi>June</hi> next: And We do require all Noblemen, Gentle<g ref="char:EOLhyphen"/>men, and all other Subjects without Burgh, and all Magiſtrats, and other perſons within Burgh, That they do not Intercommon, Harbour, nor Relieve any of the Perſons, who are, or ſhall be Intercommoned, under the pains due to Intercommoners by Law. And declare, that if any perſon ſhall diſcover any Heritor, Life-renter, or other Perſon without Burgh, or any Magiſtrate, or other Inhabitants within Burgh; who ſhall Intercommon, Har<g ref="char:EOLhyphen"/>bour, or Relieve any ſo Intercommoned, ſhall have for ſuch diſcovery made, the ſum of five hundred merks, inſtantly payed to them out of Our Theſaury. And whereas, by the ſeventeenth Act of the third Seſſion of Our ſecond Parliament, all Sheriffs, Stewarts, Lords of Re<g ref="char:EOLhyphen"/>galities, and Magiſtrates of Burghs, are obliged to give an account of their diligence, in putting the Acts relating to Conventicles, and Se<g ref="char:EOLhyphen"/>paration into due execution, to Our Privy Council yearly, on the firſt thurſday of <hi>July,</hi> under the pain of five hundred merks for each years faylie: VVe declare, that We will call them to an account of their diligence, and puniſh their negligence accordingly. And further, We declare, That the Magiſtrats of all Royal Burghs, wherein any Conventicles ſhall be hereafter keeped, ſhall be fyned in the ſum of five hundred merks for each Conventicle, and that by and attour any other fyne to be impoſed by Our Privy Council upon them; For which by Act of Par<g ref="char:EOLhyphen"/>liament, they are to have relief from the perſons preſent at the ſaid Conventicle: and that five hundred merks ſhall be the leaſt ſum to be ex<g ref="char:EOLhyphen"/>acted from any Burgh for every Conventicle, and which ſhall be augmented on the Burghs more conſiderable: For which ſum, they are to have no Relief, either from the Common good of the Towns, nor from the Perſons found at theſe Conventicles. And whereas, by Our for<g ref="char:EOLhyphen"/>mer Proclamation of the date, the Eighth day of <hi>Apryle,</hi> one thouſand ſix hundred and ſixty nine, all Heritors in whoſe Lands any Conventicles are keeped, are lyeable to the Fynes, Pains, and Penalties therein contained: We hereby declare, that in like-manner, theſe He<g ref="char:EOLhyphen"/>ritors of Houſes, within Burghs of Royalty, Regality, or Barrony, in whoſe Houſes any Conventicle ſhall be keeped after the firſt day of <hi>June</hi> next, ſhall be fyned in a whole years Rent of the ſaid Tenement, where the Conventicle ſhall be keeped, and whereof the Land-lord ſhall have no relief from the Tennent, or Poſſeſſor, and this, <hi>toties, quoties,</hi> for every Conventicle keeped therein. And fur<g ref="char:EOLhyphen"/>ther, for preventing of all diſorderly Marriages and Baptiſms, We do hereby declare, That We will take care that the thirty fourth Act of the firſt Seſſion of Our firſt Parliament, and the ſixth Act of the ſecond Seſſion of Our ſecond Parliament, be put into due execution againſt the contraveeners thereof. And, for the incouragement of thoſe who ſhall delate or inform, a proportionable part of the Fynes of theſe who ſhall be found guilty, ſhall be granted and allowed to them for their ſervice therein. And whereas, by the fourth Act of the ſecond Seſſion of Our firſt Parliament, It is Statute, that none be allowed to teach any Schools, or be Pedagogues to Children of Perſons of Quality, or Chaplains in any Family, without a Licence from the reſpective Ordinaries, We, do hereby Require and Command, that none hereafter intertain any School-maſter, Pedagogue or Chaplain, or perſon for performance of Family VVorſhip, who have no ſuch Licence under the hands of the reſpective Biſhops: And that under the penaltie of three thouſand merks to be exacted from each Nobleman, and twelve hundred merks from each Gentleman, and ſix hundred merks from a Burges, or any other Subject, <hi>toties, quoties,</hi> as they ſhall be found guilty herein. And that Our Royal pleaſure in the premiſes may be made publick and known, <hi>OUR WILL IS,</hi> and VVe charge you ſtraitly and command, that incontinent thir Our Letters ſeen, ye paſſe, to the Mercat Croſſe of <hi>Edinburgh,</hi> and remanent Head-Burghs of the Shires of this Kingdom, and other places needful; and thereat, in Our Name and Authority, by open Proclamation, make publication of Our Royal peaſure in the premiſſes, That all Our Subjects may have due and timous notice thereof, and give Obedience thereto, according to Juſtice, as ye will anſwer to Us thereupon. The which to do VVe commit to you, conjunctly and ſeverally, Our full power by thir Our Letters, delivering them be you duely execute, and indorſat again to the bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet, At <hi>Edinburgh,</hi> 
+                  <date>the firſt day of <hi>March,</hi> 1676. And of Our Reign the twenty eight year.</date>
+               </dateline>
+               <signed>Tho. Hay, <hi>Cl.</hi> S<hi rend="sup">ti</hi> 
+                  <hi>Concilii.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. <hi>Anno</hi> 1676.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
